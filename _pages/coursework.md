@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I've taken these courses at Rochester : 
+My coursework at Rochester: 
 
 ## Computer Science
 
