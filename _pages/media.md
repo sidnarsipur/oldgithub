@@ -1,10 +1,10 @@
 ---
 title: "Media"
-permalink: /media/
+permalink: /media
 author_profile: true
 layout: archive
 redirect_from:
-  - /media/
+  - /media
 ---
 
 
