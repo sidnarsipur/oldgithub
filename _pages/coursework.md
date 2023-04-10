@@ -39,4 +39,5 @@ My coursework at Rochester:
 | ----------- | ----------- |
 | WRT 105 Sports as Politics | Fall 2022 | 
 | PSC 105 Intro to US Politics | Spring 2023 | 
- 
+| CASC 352 Issues in Workshop Leadership | Spring 2023 |
+
