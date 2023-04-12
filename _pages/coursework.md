@@ -17,12 +17,13 @@ My coursework at Rochester:
 | CSC 171  Intro To CS   | Fall 2022      |
 | CSC 172  Data Structures & Algorithms   | Spring 2023        | 
 
-## Digital Media Studies
+## Clusters
 
 | Course      | Semester |
 | ----------- | ----------- |
 | DMS 103 Digital Media Toolkit | Fall 2022 |
 | ENG 118 Intro to Media Studies | Spring 2023 | 
+| PSC 105 Intro to US Politics | Spring 2023 |
 
 ## Maths
 
@@ -37,7 +38,6 @@ My coursework at Rochester:
 
 | Course      | Semester |
 | ----------- | ----------- |
-| WRT 105 Sports as Politics | Fall 2022 | 
-| PSC 105 Intro to US Politics | Spring 2023 | 
+| WRT 105 Sports as Politics | Fall 2022 |  
 | CASC 352 Issues in Workshop Leadership | Spring 2023 |
 
