@@ -14,7 +14,7 @@ My coursework at Rochester:
 
 | Course      | Semester |
 | ----------- | ----------- |
-| CSC 171  Intro To CS   | Fall 2022      |
+| CSC 171  Intro to Computer Science   | Fall 2022      |
 | CSC 172  Data Structures & Algorithms   | Spring 2023        | 
 
 ## Clusters
@@ -23,7 +23,7 @@ My coursework at Rochester:
 | ----------- | ----------- |
 | DMS 103 Digital Media Toolkit | Fall 2022 |
 | ENG 118 Intro to Media Studies | Spring 2023 | 
-| PSC 105 Intro to US Politics | Spring 2023 |
+| PSC 105 US Politics | Spring 2023 |
 
 ## Maths
 
