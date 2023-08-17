@@ -16,6 +16,8 @@ My coursework at Rochester:
 | ----------- | ----------- |
 | CSC 171  Intro to Computer Science   | Fall 2022      |
 | CSC 172  Data Structures & Algorithms   | Spring 2023        | 
+| CSC 173  Computation and Formal Systems| Fall 2023        | 
+| CSC 242  Intro to Artificial Intelligence| Fall 2023        | 
 
 ## Clusters
 
@@ -24,6 +26,7 @@ My coursework at Rochester:
 | DMS 103 Digital Media Toolkit | Fall 2022 |
 | ENG 118 Intro to Media Studies | Spring 2023 | 
 | PSC 105 US Politics | Spring 2023 |
+| PSC 107 Positive Political Theory | Fall 2023 |
 
 ## Maths
 
@@ -31,7 +34,7 @@ My coursework at Rochester:
 | ----------- | ----------- |
 | MATH 150 Discrete Mathematics | Fall 2022 |
 | MATH 161 Calculus I | Spring 2023 |
-
+| MATH 162 Calculus II | Fall 2023 |
 
 ## Other
 
@@ -40,4 +43,3 @@ My coursework at Rochester:
 | ----------- | ----------- |
 | WRT 105 Sports as Politics | Fall 2022 |  
 | CASC 352 Issues in Workshop Leadership | Spring 2023 |
-
