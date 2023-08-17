@@ -1,5 +1,5 @@
 ---
-title: "Media"
+title: ""
 permalink: /media/
 author_profile: true
 layout: archive
