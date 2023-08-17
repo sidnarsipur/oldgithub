@@ -7,11 +7,14 @@ redirect_from:
   - /media
 ---
 
+# Dazed & Confused 
 
-Some media-related work: 
-
-## Dazed & Confused 
-
-For my DMS 103 project, I built a choose your own adventure game in Twine centered around a college student experiencing mysterious events. 
+For my DMS 103 class, I built a choose your own adventure game in Twine centered around a college student experiencing strange, unexplainable events. 
 
 [Play the game](https://sidnarsipur.github.io/twinegame/) 
+
+# A Day of Screens and Swipes
+
+I shot a 5-image photo series around the relationship between 21st Century students and the technology they use everyday.
+
+[View](https://drive.google.com/drive/folders/1FYe5YxIxK7-BgWIhJ4zxvr7LGhnvu2hl?usp=sharing)
