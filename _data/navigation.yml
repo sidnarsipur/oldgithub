@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Coursework"
-    url: /coursework/    
-
-  - title: "Projects"
-    url: /projects/    
+    url: /coursework/       
    
   - title: "Media"
     url: /media/
