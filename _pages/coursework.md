@@ -16,7 +16,7 @@ My coursework at Rochester:
 | ----------- | ----------- |
 | CSC 171  Intro to Computer Science   | Fall 2022      |
 | CSC 172  Data Structures & Algorithms   | Spring 2023        | 
-| CSC 173  Computation and Formal Systems| Fall 2023        | 
+| CSC 173  Theory of Computation| Fall 2023        | 
 | CSC 242  Intro to Artificial Intelligence| Fall 2023        | 
 
 ## Clusters
