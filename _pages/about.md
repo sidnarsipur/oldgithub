@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Siddharth. I'm a sophomore at the University of Rochester studying Computer Science, Media and Political Science. 
+Hi, I'm Siddharth. I'm a sophomore at the University of Rochester studying Computer Science, with a minor in Political Science. 
 
 You can find my resume [here](https://drive.google.com/file/d/1Q66KxhUetqdje1e44js0sfIEkZxQoDgO/view?usp=sharing).
