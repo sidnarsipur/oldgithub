@@ -48,4 +48,4 @@ My coursework at Rochester:
 | Course      | Semester | Role |
 | ----------- | ----------- | ----------- |
 | CSC 171  Intro to Computer Science   | Fall 2022      | Workshop Leader |
-| CSC 172  Data Structures & Algorithms   | Spring 2023        | Teaching Assitant |
+| CSC 172  Data Structures & Algorithms   | Spring 2023        | Teaching Assistant |
