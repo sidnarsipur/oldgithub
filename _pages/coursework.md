@@ -18,6 +18,8 @@ My coursework at Rochester:
 | CSC 172  Data Structures & Algorithms   | Spring 2023        | 
 | CSC 173  Theory of Computation| Fall 2023        | 
 | CSC 242  Intro to Artificial Intelligence| Fall 2023        | 
+| CSC 249  Computer Vision| Spring 2024        |
+| CSC 252  Computer Architecture| Spring 2024        |
 
 ## Political Science
 
@@ -33,6 +35,8 @@ My coursework at Rochester:
 | MATH 150 Discrete Mathematics | Fall 2022 |
 | MATH 161 Calculus I | Spring 2023 |
 | MATH 162 Calculus II | Fall 2023 |
+| MATH 165 Linear Algebra | Spring 2024 |
+| MATH 201 Probability | Spring 2024 |
 
 ## Other
 
