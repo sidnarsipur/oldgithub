@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Siddharth. I'm a sophomore at the University of Rochester studying Computer Science, while occasionally dabbling in Political Science and Media Studies.
+Hi, I'm a sophomore at the University of Rochester studying Computer Science, while occasionally dabbling in Political Science and Media Studies.
 
 Summer 2023: I interned for the software team at [LiquiDonate](https://liquidonate.com/), working on extending their marketplace to APIs and building cool internal tools.
 
