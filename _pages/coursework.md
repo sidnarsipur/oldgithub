@@ -20,6 +20,8 @@ My coursework at Rochester:
 | CSC 242  Intro to Artificial Intelligence| Fall 2023        | 
 | CSC 249  Machine Vision| Spring 2024        |
 | CSC 252  Computer Architecture| Spring 2024        |
+| CSC 254 Programming Languages | Fall 2024  |
+| CSC 256 Operating Systems | Fall 2024  |
 
 ## Political Science
 
@@ -27,6 +29,7 @@ My coursework at Rochester:
 | ----------- | ----------- |
 | PSC 105 US Politics | Spring 2023 |
 | PSC 107 Positive Political Theory | Fall 2023 |
+| PSC 215 American Election | Fall 2024 |
 
 ## Maths
 
@@ -55,3 +58,4 @@ My coursework at Rochester:
 | CSC 171  Intro to Computer Science   | Spring 2023      | Workshop Leader | Adam Purtee
 | CSC 172  Data Structures & Algorithms   | Fall 2023        | Teaching Assistant | Ted Pawlicki
 | CSC 242  Intro to Artificial Intelligence   | Spring 2024        | Teaching Assistant | Dan Gildea
+| CSC 172  Data Structures & Algorithms   | Fall 2024        | Teaching Assistant | Ted Pawlicki
