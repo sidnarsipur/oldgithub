@@ -29,7 +29,7 @@ My coursework at Rochester:
 | ----------- | ----------- |
 | PSC 105 US Politics | Spring 2023 |
 | PSC 107 Positive Political Theory | Fall 2023 |
-| PSC 215 American Election | Fall 2024 |
+| PSC 215 American Elections | Fall 2024 |
 
 ## Maths
 
