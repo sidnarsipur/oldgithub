@@ -29,7 +29,7 @@ My coursework at Rochester:
 | ----------- | ----------- |
 | PSC 105 US Politics | Spring 2023 |
 | PSC 107 Positive Political Theory | Fall 2023 |
-| PSC 215 American Elections | Fall 2024 |
+| ECON 288 Game Theory | Fall 2024 |
 
 ## Maths
 
@@ -50,6 +50,7 @@ My coursework at Rochester:
 | ENG 118 Intro to Media Studies | Spring 2023 |
 | CASC 352 Issues in Workshop Leadership | Spring 2023 |
 | SOCI 210 Silicon Valley and its Networks | Spring 2024 |
+| IND 351 Independent Study (Research) | Fall 2024 |
 
 ## Service
 
