@@ -12,7 +12,7 @@ Hi, I'm a rising junior at the University of Rochester studying Computer Science
 
 Summer 2023: I interned for the software team at [LiquiDonate](https://liquidonate.com/), working on extending their marketplace to APIs and building cool internal tools.
 
-Summer 2024: I'll be working under Professor [Yukang Yan](https://rochester-bear-lab.github.io/), conducting research on automated Mixed Reality (MR) interfaces.
+Summer 2024: I worked under Professor [Yukang Yan](https://rochester-bear-lab.github.io/), conducting research on automated Mixed Reality (MR) interfaces.
 
 My main interests are in Computer Vision, user-facing Computer Systems and Mixed Reality.
 
