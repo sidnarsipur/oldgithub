@@ -1,10 +1,11 @@
 ---
 title: ""
-permalink: /media/
+permalink: /fun/
 author_profile: true
 layout: archive
 redirect_from:
   - /media
+  - /fun
 ---
 
 # Dazed & Confused 
