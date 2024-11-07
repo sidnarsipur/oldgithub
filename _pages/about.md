@@ -15,5 +15,3 @@ Summer 2023: I interned for the software team at [LiquiDonate](https://liquidona
 Summer 2024: I worked under Professor [Yukang Yan](https://rochester-bear-lab.github.io/), conducting research on automated Mixed Reality (MR) interfaces.
 
 My main interests are in Computer Vision, user-facing Computer Systems and Mixed Reality.
-
-You can find my resume [here](https://drive.google.com/file/d/1KIaLX-gkhPpFGXkQq0YOWGjPFRZe3c0G/view?usp=sharing).
