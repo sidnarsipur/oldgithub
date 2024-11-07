@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siddharth Narsipur"
 title_separator          : "-"
 name                     : &name "Siddharth Narsipur"
-description              : &description "Student at the University of Rochester"
+description              : &description "Junior at the University of Rochester"
 url                      : https://sidnarsipur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sidnarsipur/sidnarsipur.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Siddharth Narsipur"
-  avatar           : "Untitled design 500x300.png"
-  bio              : "Student at the University of Rochester"
+  avatar           : "IMG_6462.jpg"
+  bio              : 
   location         : "Rochester, NY & Bangalore, India"
   employer         :
   pubmed           :
