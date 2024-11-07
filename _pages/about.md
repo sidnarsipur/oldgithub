@@ -16,4 +16,4 @@ Summer 2024: I worked under Professor [Yukang Yan](https://rochester-bear-lab.gi
 
 My main interests are in Computer Vision, user-facing Computer Systems and Mixed Reality.
 
-You can find my resume [here](https://drive.google.com/file/d/1vqZHtNh5usS3Tg0d6yaq4YqAvLDTgjF2/view?usp=sharing](https://drive.google.com/file/d/1KIaLX-gkhPpFGXkQq0YOWGjPFRZe3c0G/view?usp=sharing)).
+You can find my resume [here](https://drive.google.com/file/d/1KIaLX-gkhPpFGXkQq0YOWGjPFRZe3c0G/view?usp=sharing).
